@@ -1,0 +1,51 @@
+body {
+	text-align: center;
+	background-color: pink; 
+	color: green;
+	font-family: helvetica;
+	background-image: url(images/sumer.jpg);
+	background-size: cover; 
+	text-decoration: none; 	
+}
+
+h2 {
+     color: pink;
+     text-shadow: 3px 3px 3px green;
+}
+
+h1 {
+     color: pink;
+     text-shadow: 4px 4px 4px green; 
+     font-size: 50px;
+
+}
+
+p {
+	font-size: 22px;
+}
+
+.join {
+    background-color: yellow;
+    text-decoration: none;
+    color: skyblue;
+    font-size: 25px;
+    padding: 20px 15px 20px 15px;
+    border-radius: 6px; 
+    font-weight: bold;
+}
+ 
+ .join:hover {
+	background: orange;
+}
+
+.singuer { 
+	border-radius: 300%;
+}
+
+.shadow { 
+	box-shadow: 5px 5px 3px orange;
+}
+
+{ 
+	
+}
